@@ -1,3 +1,4 @@
+// Controller for Authentication
 const User = require("../models/user.model");
 const jwt = require('jsonwebtoken');
 require('dotenv').config()

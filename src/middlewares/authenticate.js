@@ -1,3 +1,4 @@
+// Middleware for authentication
 require("dotenv").config();
 const jwt = require("jsonwebtoken")
 
