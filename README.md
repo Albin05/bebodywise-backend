@@ -12,7 +12,7 @@ We have used various npm packages.
 
 * Bcrypt is use to hash the password before we store it in the database.
 
-* Json web token is also use to generate a 
+* JSON web token is also used to generate a user token which is been sent to the frontend.
 
 
 We have deployed the app on Heroku.
