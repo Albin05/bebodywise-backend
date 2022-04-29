@@ -1,10 +1,21 @@
 ## bebodywise-backend
 
-An express app with MongoDB database which is been used as a backend for the bebodywise website.
+An express app with MongoDB database which is been used as a backend server for the bebodywise website.
 
-To provide authentication we used various npm packages like json-webtoken, dotenv etc. 
+We have implemented functionalities sucha as user authorisation and authentication.
 
-We deployed the backend on Heroku.
+Various Mongoose schemas are created to store the user data in the MongoDB database.
+
+Many CRUD operations are used to achieve many routes to send and recieve data between the client and the server.
+
+We have used various npm packages.
+
+* Bcrypt is use to hash the password before we store it in the database.
+
+* Json web token is also use to generate a 
+
+
+We have deployed the app on Heroku.
 
 ## Live
 
