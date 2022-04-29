@@ -1,5 +1,7 @@
 ## bebodywise-backend
 
+![This is an image](bebodywise.gif)
+
 An express app with MongoDB database which is been used as a backend server for the bebodywise website.
 
 We have implemented functionalities sucha as user authorisation and authentication.
